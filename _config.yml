@@ -1,0 +1,12 @@
+title: Today I learned
+author: Praj Shastry
+email: prajakt.shastry@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  A collection of short and sweet TIL (Today I Learned) posts.
+
+# social links
+github_username: Prajaktcs # DO NOT include the @ character, or else the build will fail!
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+
+theme: minima

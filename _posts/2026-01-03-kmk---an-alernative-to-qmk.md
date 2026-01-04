@@ -42,6 +42,6 @@ For the Raspberry Pi Pico 2:
 What started as a purchasing mistake turned into discovering a more flexible approach to keyboard firmware. Sometimes the detour leads somewhere interesting.
 
 **Resources**:
-- [KMK Documentation](http://kmkfw.io/)
+- [KMK Firmware GitHub](https://github.com/KMKfw/kmk_firmware)
 - [CircuitPython for Raspberry Pi Pico 2](https://circuitpython.org/board/raspberry_pi_pico_2/)
 
